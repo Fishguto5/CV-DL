@@ -2,4 +2,6 @@
 /lib/
 /lib64/
 /include/
+/assets/
+/assets_output/
 pyvenv.cfg
